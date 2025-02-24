@@ -1,7 +1,6 @@
 # Prerequisites
 *.d
-.vs
-.vs/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -31,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio directory
+.vs/
